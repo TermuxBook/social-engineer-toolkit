@@ -72,7 +72,7 @@ $ pip install pexpect pycrypto pyopenssl pefile
 *All OSs*
 
 ```bash
-$ git clone https://github.com/trustedsec/social-engineer-toolkit/ set/
+$ git clone https://github.com/TermuxBook/social-engineer-toolkit/ set/
 $ cd set
 $ python setup.py install
 ```
